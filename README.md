@@ -1,7 +1,7 @@
 # Django Restful CRUD API with MongoDB (easy example by Khodyreva Julya)
 
 
-## How you can Running the Application
+## How you can running this code?
 
 Create the DB tables first:
 <br/> python manage.py migrate
